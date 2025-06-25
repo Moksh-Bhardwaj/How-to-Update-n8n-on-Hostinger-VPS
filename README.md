@@ -74,6 +74,5 @@ Your n8n instance is now successfully updated on Hostinger — with **no data lo
 
 ### Support me if my videos or projects helped you:
 <a href="https://github.com/sponsors/Moksh-Bhardwaj">
-  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=github" alt="Sponsor" width="160"/>
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github&logoColor=white" alt="Sponsor" width="200"/>
 </a>
-
