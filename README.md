@@ -72,7 +72,7 @@ This ensures:
 
 Your n8n instance is now successfully updated on Hostinger — with **no data lost** and **everything working on the latest version**.
 
-### Support me if my videos or projects helped you:
+### Support me if my videos or projects helped you 👇🏻
 <a href="https://github.com/sponsors/Moksh-Bhardwaj">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github&logoColor=white" alt="Sponsor" width="200"/>
 </a>
