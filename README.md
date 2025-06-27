@@ -2,6 +2,10 @@
 
 This guide will walk you step-by-step through updating your existing **n8n** instance on a Hostinger VPS (pre-installed with Docker and Docker Compose) - **without losing any of your workflows, credentials, or data**.
 
+## 📺 Watch the Full Tutorial on YouTube
+- [How to Update n8n Safely on Hostinger VPS (Step-by-Step Guide)](https://youtu.be/U8iFlqK28fc)
+
+---
 > ✅ **Important:** Hostinger’s n8n VPS already uses persistent volumes, so this update process is safe and non-destructive.
 
 ![Hostinger hpanel screenshot](https://github.com/user-attachments/assets/5f375f2e-368b-4ace-9344-8a6cc5bc7ebc)
