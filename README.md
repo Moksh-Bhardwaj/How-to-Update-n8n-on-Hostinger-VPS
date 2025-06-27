@@ -80,3 +80,24 @@ Your n8n instance is now successfully updated on Hostinger — with **no data lo
 <a href="https://github.com/sponsors/Moksh-Bhardwaj">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github&logoColor=white" alt="Sponsor" width="200"/>
 </a>
+
+---
+
+## 📝 License
+
+- **Code**: [MIT License](https://github.com/Moksh-Bhardwaj/youtube-daily-search-views-tracker-n8n-automation/blob/main/LICENSE)
+- **Screenshots & Docs**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Attribution required  
+  Credit: **[Moksh Bhardwaj](https://superprofile.bio/mokshbhardwaj)**
+
+---
+
+## 🙌 Author
+
+**Moksh Bhardwaj**  
+🔗 [YouTube](https://www.youtube.com/@GreyMattersTech)<br/>
+🔗 [Super Prfile](https://superprofile.bio/mokshbhardwaj)<br/>
+🔗 [GitHub](https://github.com/Moksh-Bhardwaj)
+
+🎥 Watch the full tutorial on [YouTube](https://youtu.be/U8iFlqK28fc)
+
+⭐ Star this repo if you find it useful and want more tech tutroials!
